@@ -1,12 +1,16 @@
 Dados do aluno
 
 -Primeiro Nome:
+Carolina
 -Profissão:
+Desenvolvedora
 -Cidade:
+São Paulo
 -O que faz nas horas vaga:
+Jogo tênis
 -Feedback sobre o curso Qualidade de Software:
+Estou gostando muito do curso
 -Feedback sobre a plataforma de estudo da EBAC:
+A plataforma é bem user friendly, fácil de usar
 
-Obrigado!!!
-
-
+Obrigada!!!
